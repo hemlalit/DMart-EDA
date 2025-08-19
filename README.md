@@ -49,7 +49,5 @@ This repository is useful for:
 - Recruiters evaluating data storytelling and coding skills  
 - Anyone interested in applied statistics using Python
 
----
-
-Feel free to ⭐ the repo if you find it helpful!
+## Feel free to ⭐ the repo if you find it helpful!
 
